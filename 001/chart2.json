@@ -1,8 +1,8 @@
 [
   {
-    "purchaseSizePercentile": 0,
+    "purchaseSizePercentile": -1,
     "etherPurchaseSizeCutoff": 0,
-    "count": 0.6,
+    "count": 0.75,
     "etherAcc": 0,
     "etherAccPercentile": 0,
     "ether": 0,
