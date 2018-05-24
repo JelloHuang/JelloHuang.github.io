@@ -10,7 +10,7 @@
   },
 
   {
-    "purchaseSizePercentile": 0,
+    "purchaseSizePercentile": -1,
     "etherPurchaseSizeCutoff": 10000,
     "count": 179,
     "etherAcc": 15156912.082,
