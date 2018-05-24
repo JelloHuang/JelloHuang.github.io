@@ -907,5 +907,15 @@
     "etherAccPercentile": 100,
     "ether": 1000000,
     "countAdjusted": 1
+  },
+  {
+    "purchaseSizePercentile": 1001,
+    "etherPurchaseSizeCutoff": 1000000,
+    "count": 1,
+    "etherAcc": 601085016.26,
+    "etherAccPercentile": 1100,
+    "ether": 10000010,
+    "countAdjusted": 1
   }
+
 ]
