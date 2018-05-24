@@ -10,7 +10,7 @@
   },
 
   {
-    "purchaseSizePercentile": 1,
+    "purchaseSizePercentile": 0,
     "etherPurchaseSizeCutoff": 10000,
     "count": 8079,
     "etherAcc": 15156912.082,
@@ -19,7 +19,7 @@
     "countAdjusted": 0
   },
   {
-    "purchaseSizePercentile": 2,
+    "purchaseSizePercentile": 0,
     "etherPurchaseSizeCutoff": 20000,
     "count": 414,
     "etherAcc": 22060840.415,
@@ -28,7 +28,7 @@
     "countAdjusted": 0
   },
   {
-    "purchaseSizePercentile": 3,
+    "purchaseSizePercentile": 0,
     "etherPurchaseSizeCutoff": 30000,
     "count": 95,
     "etherAcc": 24494137.366,
@@ -37,7 +37,7 @@
     "countAdjusted": 95
   },
   {
-    "purchaseSizePercentile": 4,
+    "purchaseSizePercentile": 0,
     "etherPurchaseSizeCutoff": 40000,
     "count": 83,
     "etherAcc": 27537436.412,
