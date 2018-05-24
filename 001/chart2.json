@@ -2,7 +2,7 @@
   {
     "purchaseSizePercentile": 0,
     "etherPurchaseSizeCutoff": 0,
-    "count": 0.75,
+    "count": 75,
     "etherAcc": 0,
     "etherAccPercentile": 0,
     "ether": 0,
@@ -12,7 +12,7 @@
   {
     "purchaseSizePercentile": 0,
     "etherPurchaseSizeCutoff": 10000,
-    "count": 8079,
+    "count": 179,
     "etherAcc": 15156912.082,
     "etherAccPercentile": 0,
     "ether": 15156912.082,
