@@ -83,11 +83,11 @@
   {
     "timestamp": 1457956956,
     "tid": 16152549,
-    "price": "0.0355",
+    "price": "11.0355",
     "amount": "5.0",
     "exchange": "bitfinex",
     "type": "buy",
-    "index": 9
+    "index": 99
   },
   {
     "timestamp": 1457956956,
